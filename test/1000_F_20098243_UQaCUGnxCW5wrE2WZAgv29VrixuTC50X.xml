@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>1000_F_20098243_UQaCUGnxCW5wrE2WZAgv29VrixuTC50X.jpg</filename>
+	<path>/my-project-name/1000_F_20098243_UQaCUGnxCW5wrE2WZAgv29VrixuTC50X.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>721</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>casque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>2</ymin>
+			<xmax>624</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

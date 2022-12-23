@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>casque-de-protection-chantier-singer-prosur-cas5rs.jpg</filename>
+	<path>/my-project-name/casque-de-protection-chantier-singer-prosur-cas5rs.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>casque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>3</ymin>
+			<xmax>643</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

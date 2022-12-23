@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>taille-idéale-pour-un-homme.jpg</filename>
+	<path>/my-project-name/taille-idéale-pour-un-homme.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sansCasque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>16</ymin>
+			<xmax>585</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>GEfvcDXBjFl_homme-casque-chantier.jpg</filename>
+	<path>/my-project-name/GEfvcDXBjFl_homme-casque-chantier.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>602</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>casque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>2</ymin>
+			<xmax>395</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

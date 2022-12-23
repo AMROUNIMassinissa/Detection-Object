@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>combinaison-travail-professionnelle-homme-menage-manutention-foyer-bac-pro.jpg</filename>
+	<path>/my-project-name/combinaison-travail-professionnelle-homme-menage-manutention-foyer-bac-pro.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>555</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sansCasque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>14</ymin>
+			<xmax>397</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

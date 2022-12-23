@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>iStock-170961863-homme-avec-casque-sur-chantier_1.jpg</filename>
+	<path>/my-project-name/iStock-170961863-homme-avec-casque-sur-chantier_1.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>casque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>6</ymin>
+			<xmax>267</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
